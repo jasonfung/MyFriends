@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyFriends</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_one">About</string>
+    <string name="menu_two">Help</string>
+    <string name="helpDescTerm">The Terminology page displays a search bar that allows you to search for common terminology for Android Development  </string>
+    <string name="helpDescWeb">The Website page displays the URL of a list of websites for Android Development  </string>
+    <string name="aboutMe1">Name: Ka Yee Jason Fung </string>
+    <string name="aboutMe2">Program: Computer Programming and Analysis Co-op</string>
+    <string name="aboutMe3">I study at Seneca College. Below is the logo.</string>
+
+    <string name="db_id">ID</string>
+
+
+</resources>
